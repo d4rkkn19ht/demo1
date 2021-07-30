@@ -1,6 +1,6 @@
 <?php
 	class Connect{
-		private $dns = "mysql:host=php0620e-2.itpsoft.com.vn/phpmyadmin;dbname=PHP0620E_nhom2";
+		private $dns = "mysql:host=http://php0620e-2.itpsoft.com.vn/phpmyadmin/;dbname=PHP0620E_nhom2";
 		private $user = "PHP0620E_nhom2";
 		private $pass = "PHP0620E_nhom2*";
 		protected $pdo = null;

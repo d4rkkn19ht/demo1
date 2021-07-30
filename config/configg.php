@@ -1,6 +1,6 @@
 <?php  
 	// Kết nối cơ sở dữ liệu
-	$host = "php0620e-2.itpsoft.com.vn/phpmyadmin";
+	$host = "http://php0620e-2.itpsoft.com.vn/phpmyadmin/";
 	$user = "PHP0620E_nhom2";
 	$pass = "PHP0620E_nhom2*";
 	$database = "PHP0620E_nhom2";
