@@ -1,0 +1,54 @@
+.background {
+    /*background-image: url(../../resources/img/Top-50-hình-ảnh-hình-nền-màu-trắng-đẹp-nhất-11-1.jpg);*/
+/*    height: 600px;*/
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*.detail {
+    width: 800px;
+    margin: 0 auto;
+    height: 600px;
+}*/
+
+img {
+    width: 100%;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: large;
+}
+
+p {
+    text-align: justify;
+}
+
+.price {
+    font-size: 150%;
+    font-weight: 500;
+}
+
+button {
+    border: 1px solid ;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #2f9c5c;
+    color: white;
+    font-size: large;
+    font-weight: 500;
+}
+
+button  :hover {
+    text-decoration: none;
+    background-color: #84C639; 
+    color: #fff;
+}
+.heart{
+    color:red;
+}

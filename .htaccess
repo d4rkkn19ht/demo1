@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteRule "trang-chu" "index.php"
+RewriteRule "gio-hang" "index.php?page=cart"
+RewriteRule "menu" "index.php?page=cate"
+RewriteRule "san-pham-yeu-thich" "index.php?page=favourite"
+RewriteRule "dang-ki" "index.php?page=sign&method=add"
+RewriteRule "dang-nhap" "index.php?page=sign&method=login"
+RewriteRule "dang-xuat" "index.php?page=sign&method=logout"
+RewriteRule "lich-su-mua-hang" "index.php?page=sign&page=history"
+RewriteRule "quen-mat-khau" "index.php?page=sign&method=forget"
+RewriteRule "^chi-tiet-san-pham/([0-9]+)$" "index.php?page=detail_product&id=$1"
+RewriteRule "^menu/([0-9]+)$" "index.php?page=cate&pag=$1"
