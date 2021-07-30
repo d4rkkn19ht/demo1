@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<base href="http://localhost/Github/PHP0620E_Do_An/demoFood/">
+	<base href="https://black-hostin.herokuapp.com/">
 	<meta charset="utf-8">
 	<title>FoodNow</title>
 	<link href='https://fonts.googleapis.com/css?family=Lobster+Two:400,700' rel='stylesheet' type='text/css'>
